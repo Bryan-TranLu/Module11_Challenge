@@ -1,11 +1,11 @@
-# # Module11_Challenge
+## Module11_Challenge
 Submission for Bryan Tran Lu. Please note that the entirely of this assignment was performed on Google Colab.  
 
 ## Description
 This assigment uses Prophet to forecast models based on historical csv data.
 
 ## Instructions
-The assignment script can be found in the Starter_Code folder. The file name is `crypto_investments.ipynb`.
+The assignment script can be found in the Starter_Code folder. The file name is `forecasting_net_prophet.ipynb`.
 
 ## Installation Requirements
 If using Google Colab, installing the following libraries are required prior to running the script:

@@ -583,6 +583,6 @@ mercado_sales_forecast_quarter.sum()
 ##### worst case     20829.813155
 ##### best case      24675.289950
 
-##### *Plesae note that these forecasts are until 2020-08-12 per challenge instructions to predict 90 days out into the future (and not until 2020-09-30). Sales forecasts may be underestimated.
+##### *Please note that these forecasts are until 2020-08-12 per challenge instructions to predict 90 days out into the future (and not until 2020-09-30). Sales forecasts may be underestimated.
 """
 

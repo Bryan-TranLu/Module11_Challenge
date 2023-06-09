@@ -1,1 +1,36 @@
-# Module11_Challenge
+# # Module11_Challenge
+Submission for Bryan Tran Lu. Please note that the entirely of this assignment was performed on Google Colab.  
+
+## Description
+This assigment uses Prophet to forecast models based on historical csv data.
+
+## Instructions
+The assignment script can be found in the Starter_Code folder. The file name is `crypto_investments.ipynb`.
+
+## Installation Requirements
+If using Google Colab, installing the following libraries are required prior to running the script:
+```python
+!pip install pystan
+!pip install prophet
+!pip install hvplot
+!pip install holoviews
+```
+
+Once installed, import the following:
+```python
+import pandas as pd
+import holoviews as hv
+from prophet import Prophet
+import hvplot.pandas
+import datetime as dt
+import numpy as np
+%matplotlib inline
+```
+
+## Images
+The following is the output of the composite plots comparing the elbow curves and clusters data for the original and the PCA data.
+
+![Image Link](https://github.com/Bryan-TranLu/Module10_Challenge/blob/main/Images/Composite_Plots_image.png)
+
+## Authors and Support
+If there are any questions regarding the assignment, please reach out via email.

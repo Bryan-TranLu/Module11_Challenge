@@ -2,6 +2,7 @@
 Submission for Bryan Tran Lu. 
 * Please note that the entirely of this assignment was performed on Google Colab. 
 * The csv files to upload to Google Colab are located in the `Resources` folder.
+* All script outputs were cleared to reduce the size of the file to upload to GitHub.
 
 ## Description
 This assigment uses Prophet to forecast models based on historical csv data.

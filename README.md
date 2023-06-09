@@ -1,5 +1,7 @@
 ## Module11_Challenge
-Submission for Bryan Tran Lu. Please note that the entirely of this assignment was performed on Google Colab.  
+Submission for Bryan Tran Lu. 
+* Please note that the entirely of this assignment was performed on Google Colab. 
+* The csv files to upload to Google Colab are located in the `Resources` folder.
 
 ## Description
 This assigment uses Prophet to forecast models based on historical csv data.
